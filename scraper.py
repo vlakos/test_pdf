@@ -1,3 +1,3 @@
 missingword ='characters'
-fullsentence ='Hereisastringof%swithamissingword'%missingword
+fullsentence ='Here is a string of %s with a missing word' % missingword
 print fullsentence
